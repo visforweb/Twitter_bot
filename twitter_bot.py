@@ -11,7 +11,7 @@ import os
 URL = "https://bhagavadgita.io/verse-of-the-day/"
 USER_ID = "vishalkumar.mit@gmail.com"
 USER_NAME ="VishalTheDarer"
-USER_PASSWORD = "vis@21986"
+USER_PASSWORD = "PASSWORD"
 TWITTER_URL = "https://twitter.com/i/flow/login"
 chromium_driver_path = "C:\Development\chromedriver.exe"
 service = Service(chromium_driver_path)
